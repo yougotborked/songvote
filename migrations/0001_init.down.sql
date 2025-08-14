@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS pairwise_result;
+DROP TABLE IF EXISTS sms_inbound;
+DROP TABLE IF EXISTS ballot_send;
+DROP TABLE IF EXISTS song_rating;
+DROP TABLE IF EXISTS song;
+DROP TABLE IF EXISTS participant;
